@@ -22,4 +22,11 @@
 	"require-dev": {
 		"mikey179/vfsstream": "1.6.*"
 	}
+	,"authors": [
+		{
+			"name": "Baron Wahyu Gumelar",
+			"email": "baronwahyugumelar0105@gmail.com",
+			"role": "Maintainer"
+		}
+	]
 }
