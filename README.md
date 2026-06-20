@@ -1,8 +1,5 @@
 <h1 align="center">Sistem Inventaris Barang</h1>
 
-**Cloned by: Baron Wahyu Gumelar**  
-Date: 2026-06-20
-
 ---
 ## 🚀 Fitur Utama
 
